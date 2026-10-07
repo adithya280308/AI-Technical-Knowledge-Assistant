@@ -1,0 +1,4 @@
+Embeddings are numerical representations of data.
+Text embeddings represent the meaning of text as vectors.
+Similar text usually produces similar embedding vectors.
+Embeddings are widely used in semantic search and retrieval.

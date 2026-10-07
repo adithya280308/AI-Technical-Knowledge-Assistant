@@ -1,0 +1,4 @@
+BM25 is a lexical information retrieval algorithm.
+BM25 ranks documents based on query terms.
+BM25 considers term frequency, inverse document frequency, and document length.
+Unlike vector retrieval, BM25 does not require embeddings.

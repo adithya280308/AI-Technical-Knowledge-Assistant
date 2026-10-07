@@ -1,0 +1,4 @@
+A vector database stores and searches high dimensional vectors.
+Vector databases are commonly used in RAG applications.
+ChromaDB is a vector database used to store embeddings.
+Vector similarity search retrieves semantically similar documents.

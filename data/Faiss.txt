@@ -1,0 +1,4 @@
+FAISS is a library for efficient similarity search.
+FAISS can search dense vectors using different index types.
+The Flat index performs exact similarity search.
+The IVF index divides vectors into clusters to make search faster.
